@@ -8,7 +8,7 @@ import {
 
 // ─── DESIGN TOKENS ────────────────────────────────────────────────────────────
 const C = {
-  bg:"#F7F3F2", surf:"#FFFFFF", bdr:"#EAE0DE", bdr2:"#D9CECA",
+  bg:"#00FF00", surf:"#FFFFFF", bdr:"#EAE0DE", bdr2:"#D9CECA",
   t1:"#1A0808", t2:"#7A4E4E", t3:"#B89090",
   red:"#C42B2B", redL:"#FFF0F0", redM:"#F0CCCC",
   H:"#C42B2B", Hbg:"#FFF0F0", Hbd:"#F0CCCC", Ht:"#9B1A1A",
